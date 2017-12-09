@@ -1,0 +1,5 @@
+#node1	node2	node1_string_internal_id	node2_string_internal_id	node1_external_id	node2_external_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+CXorf57	NXPE1	1855705	1844090	9606.ENSP00000361628	9606.ENSP00000251921	0	0	0	0	0	0.595	0	0	0.595
+NXPE4	NXPE1	1856308	1844090	9606.ENSP00000364627	9606.ENSP00000251921	0	0	0	0.975	0.445	0	0	0	0.445
+CXorf57	MLH1	1855705	1843304	9606.ENSP00000361628	9606.ENSP00000231790	0	0	0	0	0.055	0.400	0	0	0.409
+NXPE1	MLH1	1844090	1843304	9606.ENSP00000251921	9606.ENSP00000231790	0	0	0	0	0	0.400	0	0	0.400

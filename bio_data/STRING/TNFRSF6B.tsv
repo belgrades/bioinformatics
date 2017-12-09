@@ -1,0 +1,4 @@
+#node1	node2	node1_string_internal_id	node2_string_internal_id	node1_external_id	node2_external_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+TNFSF15	TNFRSF6B	1856036	1855152	9606.ENSP00000363157	9606.ENSP00000359013	0	0	0	0	0.054	0.866	0.900	0	0.986
+TNFSF14	TNFRSF6B	1864071	1855152	9606.ENSP00000469049	9606.ENSP00000359013	0	0	0	0	0	0.866	0.900	0	0.986
+TNFRSF6B	FASLG	1855152	1854652	9606.ENSP00000359013	9606.ENSP00000356694	0	0	0	0	0	0.866	0.800	0	0.972
